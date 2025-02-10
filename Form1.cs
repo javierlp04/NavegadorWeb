@@ -17,6 +17,9 @@ namespace NavegadorWeb
         {
             InitializeComponent();
             this.Resize += new System.EventHandler(this.Form_Resize);
+
+
+
         }
 
         private void Form_Resize(object sender, EventArgs e)
